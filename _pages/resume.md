@@ -3,7 +3,7 @@ layout: page
 title: Resume
 ---
 
-<img src="assets/images/avatar.jpeg" height="200" />
+<img src="assets/images/avatar.jpeg" height="200" class="center" />
 
 Hi, my name is Jan Biernacki. I am a 21 year old Software Developer from Germany. I have 4 years of experience in **Android/Cross-Plattform App-Development**, working mostly for/with startups: From planning, prototyping, interface design and backend design to full-stack development.
 
