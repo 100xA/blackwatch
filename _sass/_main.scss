@@ -12,15 +12,15 @@ body {
     text-rendering: optimizeLegibility;
 	line-height:1.5;
 	font-size: 1rem;
-	color: rgb(255,255,255, 0.8);
+	color: rgba(255,255,255, 0.8);
 }
 
 nav ul {
-    border-right: 1px solid rgb(255,255,255, 0.8);
+    border-right: 1px solid rgba(255,255,255, 0.8);
 }
 
 a {
-    color: rgb(255,255,255, 0.8);
+    color: rgba(255,255,255, 0.8);
     text-decoration-skip-ink: auto;
     text-decoration: underline;
 }
