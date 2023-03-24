@@ -6,6 +6,9 @@ comments: false
 tags: [zsh, zshrc, applescript, status-ongoing]
 ---
 
+
+![PomoCLI](/assets/gifs/Pomo.gif)
+
 # General Info
 
 I have been recently struggling with the amount of options of Pomodoro-Trackers that are out there. 
