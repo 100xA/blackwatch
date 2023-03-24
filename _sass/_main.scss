@@ -1,13 +1,13 @@
 *,:after,:before {
 	box-sizing:border-box;
-	background-color: #121212                                                                                                                                                                                 ;
+	background-color: #121212;                                                                                                                                                                               ;
 	color:inherit;
 	margin:0;
 	padding:0;
 }
 
 body {
-	font-family: system-ui, sans-serif;
+	font-family: 'Roboto Mono', monospace;
 	-webkit-font-smoothing: antialiased;
     text-rendering: optimizeLegibility;
 	line-height:1.5;
@@ -47,7 +47,7 @@ pre {
 }
 
 code,pre {
-	background: rgb(236, 237, 238);
+	background: #121212;
 }
 
 code {
