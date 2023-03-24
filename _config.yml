@@ -1,20 +1,10 @@
-site: Sidey
-url: #yoururl
-title: Sidey
-description: Simple and minimalistic jekyll blogging theme.
-twitter:
-  username: #yourusername
-  card: summary
-  creator: #yourusername
-author:
-  twitter: #yourusername
-  name: #yourusername
-  avatar:
-  email: #youremail
-  url: #yoururl
+site: Jan Biernacki Personal Portfolio
+url: 100xa.github.io
+title: Jan Biernacki Personal Portfolio
+description: I am a 21 year old Software Developer from Germany, mostly working with Flutter. Feel free to check out my projects!
+    <a href="https://github.com/100xA" target="_blank" rel="noopener">@github</a>.
 permalink: pretty
-
-baseurl: ""
+baseurl: 
 
 highlighter: none
 
