@@ -5,9 +5,15 @@ title: Resume
 
 <img src="assets/images/avatar.jpeg" height="200" class="center" />
 
+<br>
+
 Hi, my name is Jan Biernacki. I am a 21 year old Software Developer from Germany. I have 4 years of experience in **Android/Cross-Plattform App-Development**, working mostly for/with startups: From planning, prototyping, interface design and backend design to full-stack development.
 
-> I personally **strongly** believe in the importance of open source software. Being an almost exlusively self-taught Developer, I prefer and **mostly use open source software to accomplish my daily tasks**. This belief also led me to discover the **unix environment**, where I set up personal projects. 
+<br>
+
+> I personally **strongly** believe in the importance of open source software. Being an almost exlusively self-taught developer, I prefer and **mostly use open source software to accomplish my daily tasks**. This belief also led me to discover the **unix environment**, where I set up personal projects. 
+
+<br>
 
 ## Main Interests
 * Cross-Plattform App-Development

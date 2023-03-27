@@ -6,4 +6,33 @@ comments: false
 tags: [java.dart, flutter, firebase, status-open]
 ---
 
-The Project "Integrationsseminar" is a flutter project for the seminar "Digitale Assistenzsysteme für den technischen Service".
+**The application is still WIP!!!**
+
+# General Info
+
+The Project "Integrationsseminar" is a flutter project for the seminar "Digitale Assistenzsysteme für den technischen Service". Goal of the application is to build an environment for the employees of a paper company (Engineers, Managers, Admins) to manage production machines and their components.
+
+
+# Technical Summary
+
+### Reference projects
+- https://github.com/akshansh2000/learn_ar_flutter
+- https://github.com/MahmoudHesham099/Java-Spring-Boot-Flutter-Todo
+
+### Packages
+- https://pub.dev/packages/ar_flutter_plugin
+- https://pub.dev/packages/firebase_core
+- https://pub.dev/packages/chewie
+- https://pub.dev/packages/csv
+- https://pub.dev/packages/pdf
+- https://pub.dev/packages/firebase_database
+
+## Architecture
+- BLoC/Cubit: https://pub.dev/packages/flutter_bloc
+- Get_it : https://pub.dev/packages/get_it
+
+# Links and further information
+
+* [Link to the repository](https://github.com/100xA/integrationFlutterApp)
+
+**The application is still WIP!!!**
