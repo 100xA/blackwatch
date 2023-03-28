@@ -80,4 +80,4 @@ The Project follows the principles of dividing UI/BL/Repository, while incorpora
 * [Link to the repository](https://github.com/100xA/Zample)
 * [Link to the website on Notion](https://pstarterapp.de)
 
-The program is no longer active.
+The project is no longer active.

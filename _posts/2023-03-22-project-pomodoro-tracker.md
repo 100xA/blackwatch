@@ -44,5 +44,5 @@ That's it! Now you have a quick Pomodoro-CLI for your productivity setup
 
 * [Link to the repository](https://github.com/100xA/PomodoroTrackerCLI)
 
-I will be updating the Project regarding my own needs while keeping it as lightweight as possible.
+I will be updating the project regarding my own needs while keeping it as lightweight as possible.
 Thanks for reading!

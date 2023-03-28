@@ -4,7 +4,7 @@
  <title>Jan Biernacki Personal Portfolio</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2023-03-27T19:06:41+02:00</updated>
+ <updated>2023-03-28T18:34:17+02:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name></name>
@@ -60,7 +60,7 @@ Incable of finding a simple Tracker that doesn’t include any special features 
   &lt;li&gt;&lt;a href=&quot;https://github.com/100xA/PomodoroTrackerCLI&quot;&gt;Link to the repository&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;I will be updating the Project regarding my own needs while keeping it as lightweight as possible.
+&lt;p&gt;I will be updating the project regarding my own needs while keeping it as lightweight as possible.
 Thanks for reading!&lt;/p&gt;
 </content>
  </entry>
@@ -107,6 +107,43 @@ Thanks for reading!&lt;/p&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;&lt;strong&gt;The application is still WIP!!!&lt;/strong&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Project &quot;Zample Workbook Part 1&quot;</title>
+   <link href="http://localhost:4000/2021/03/01/project-zample-workbook"/>
+   <updated>2021-03-01T00:00:00+01:00</updated>
+   <id>http://localhost:4000/2021/03/01/project-zample-workbook</id>
+   <content type="html">&lt;h1 id=&quot;general-info&quot;&gt;General Info&lt;/h1&gt;
+
+&lt;p&gt;This is an updated version of &lt;a href=&quot;/2021/01/01/project-zample&quot;&gt;Project Zample&lt;/a&gt;. Since Zample’s code was outdated, I have updated it to the non-null standard provided by Flutter.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/landing-page.png&quot; alt=&quot;Zample Design&quot; class=&quot;align-center&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The project workbook was written for &lt;a href=&quot;https://nexliber.com&quot;&gt;NexLiber.com&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h1 id=&quot;technical-summary&quot;&gt;Technical Summary&lt;/h1&gt;
+
+&lt;p&gt;This is part one of a probably three-part series, meaning that this project only encompasses:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;General Setup (Seperation of BL, UI and Repo, project structure)&lt;/li&gt;
+  &lt;li&gt;Firebase Setup&lt;/li&gt;
+  &lt;li&gt;Firebase Auth (Google Auth)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The projects follows the same technical guidelines/processes as &lt;a href=&quot;/2021/01/01/project-zample&quot;&gt;Project Zample&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h1 id=&quot;links-and-further-information&quot;&gt;Links and further information&lt;/h1&gt;
+
+&lt;p&gt;I have added the full workbook documentation to the ReadMe-File on Github. Feel free to check it out!&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/100xA/zample_workbook&quot;&gt;Link to the repository&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://nexliber.com/workbook/zample-part-1&quot;&gt;Link to the workbook on Nextliber.com&lt;/a&gt; - only if you are signed in&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The project is completed.&lt;/p&gt;
 </content>
  </entry>
  
@@ -190,7 +227,7 @@ Cubit, being an extension of the BLoC library, is often used to better organise 
   &lt;li&gt;&lt;a href=&quot;https://pstarterapp.de&quot;&gt;Link to the website on Notion&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;The program is no longer active.&lt;/p&gt;
+&lt;p&gt;The project is no longer active.&lt;/p&gt;
 </content>
  </entry>
  
