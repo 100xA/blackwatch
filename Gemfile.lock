@@ -9,6 +9,7 @@ GEM
       eventmachine (>= 0.12.9)
       http_parser.rb (~> 0)
     eventmachine (1.2.7)
+    exec (0.0.3)
     ffi (1.15.5)
     forwardable-extended (2.6.0)
     google-protobuf (3.22.2-arm64-darwin)
@@ -69,6 +70,7 @@ PLATFORMS
   arm64-darwin-22
 
 DEPENDENCIES
+  exec (~> 0.0.3)
   jekyll
   jekyll-paginate
   jekyll-seo-tag
