@@ -28,6 +28,6 @@ The projects follows the same technical guidelines/processes as [Project Zample]
 I have added the full workbook documentation to the ReadMe-File on Github. Feel free to check it out!
 
 * [Link to the repository](https://github.com/100xA/zample_workbook)
-* [Link to the workbook on Nextliber.com](https://nexliber.com/workbook/zample-part-1) - only if you are signed in
+* [Link to the workbook on Nextliber.com](https://nexliber.com/workbook/zample-part-1) - only accessible if you are signed in
 
 The project is completed.
